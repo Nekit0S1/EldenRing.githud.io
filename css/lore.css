@@ -1,0 +1,25 @@
+.content {
+    position: relative;
+    height: 100%;
+    padding: 0 32px 0 32px;
+
+    color: white;
+
+    background-color: rgba(0, 0, 0, 75%);
+
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+
+.content > h1 {
+    font-size: 48px;
+    margin-bottom: 8px;
+}
+
+.content > p {
+    font-size: 22px;
+    margin: 8px 4px 0 4px;
+}
+
+footer {
+    margin-top: 32px;
+}
